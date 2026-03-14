@@ -1,5 +1,5 @@
-# vinodhini.m
-job-acceptance-ml-project
+
+
 # Job Acceptance Prediction & HR Analytics Dashboard
 
 ## Project Overview
